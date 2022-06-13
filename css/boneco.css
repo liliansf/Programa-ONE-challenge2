@@ -1,0 +1,56 @@
+.base{
+    position: absolute;
+ 
+    transform: scale(0.6);
+} 
+.haste-maior{
+    position: absolute;
+ 
+ 
+    transform: scale(0.6);
+}
+.haste-menor {
+    display: none;
+    position: absolute;
+ 
+}
+.corda{
+    display: none;
+    position: absolute;
+ 
+}
+
+.cabeca{
+    display: none;
+    position: absolute;
+ 
+}
+
+.corpo{
+    display: none;
+    position: absolute;
+ 
+}   
+  
+.braco-direito{
+    display: none;
+    position: absolute;
+ 
+}
+
+.braco-esquerdo{
+    display: none;
+    position: absolute;
+ 
+}
+.perna-direita{
+    display: none;
+    position: absolute;
+ 
+}
+
+.perna-esquerda{
+    display: none;
+    position: absolute;
+ 
+}
